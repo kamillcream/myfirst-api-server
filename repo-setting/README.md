@@ -7,4 +7,5 @@ https://maven-central.storage-download.googleapis.com/maven2/
 cp settings.xml ~/.m2/
 
 # gradle 방식
-cp init.gradle  ~/.gradle/
+cp init.gradle  ~/.gradle/“test README.md”
+“test README.md”
